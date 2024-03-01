@@ -48,6 +48,16 @@ ___
 
 <img src = "./images_and_output_data/pitcher_669302/total_path_length.png" width = 100%>
 
+4. Aggregate Mean Path tracks the joint path through time and computes the mean for all samples per time increment. Once the mean path is computed a tolerance can then be set to allow for normal deviations in pitch delivery. If the delivery starts to fall outside of the "pocket" then further investigation may be needed.
+
+<img src = "./images_and_output_data/pitcher_669302/r_hip_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/r_hip_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/r_hip_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/r_shoulder_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/r_shoulder_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/r_shoulder_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/r_elbow_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/r_elbow_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/r_elbow_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/r_wrist_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/r_wrist_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/r_wrist_z_mean_path.png" width = 33%>
+
 ---
 ---
 
@@ -78,3 +88,13 @@ ___
 3. Cumulative Distance Travelled
 
 <img src = "./images_and_output_data/pitcher_669302/sched430322/total_path_length.png" width = 100%>
+
+4. Aggregate Mean Path tracks the joint path through time and computes the mean for all samples per time increment. Once the mean path is computed a tolerance can then be set to allow for normal deviations in pitch delivery. If the delivery starts to fall outside of the "pocket" then further investigation may be needed.
+
+<img src = "./images_and_output_data/pitcher_669302/sched430322/r_hip_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_hip_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_hip_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/sched430322/r_shoulder_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_shoulder_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_shoulder_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/sched430322/r_elbow_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_elbow_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_elbow_z_mean_path.png" width = 33%>
+
+<img src = "./images_and_output_data/pitcher_669302/sched430322/r_wrist_x_mean_path.png" width=33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_wrist_y_mean_path.png" width = 33%><img src = "./images_and_output_data/pitcher_669302/sched430322/r_wrist_z_mean_path.png" width = 33%>
