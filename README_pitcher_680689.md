@@ -1,6 +1,5 @@
 # Astros Technical Assessment
 
-Goal: To parse through raw data received and identify a given pitcher's arm path during delivery, and provide up to two unique metrics to summarize the arm path.
 ___
 # Pitcher: 680689
 # Game: 429650
