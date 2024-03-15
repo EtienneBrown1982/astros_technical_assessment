@@ -1,4 +1,4 @@
-# Astros Technical Assessment
+# Coordinate Data Time Series Pitcher Study
 
 ___
 # Pitcher: 543243
